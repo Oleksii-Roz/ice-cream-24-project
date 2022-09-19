@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://akelarka.github.io/ice-cream-24-team-project",
+  "homepage": "https://Oleksii-Roz.github.io/ice-cream-24-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-24-team-project/"
+    "build": "parcel build src/*.html --public-url /ice-cream-24-project"
   },
   "repository": {
     "type": "git",
